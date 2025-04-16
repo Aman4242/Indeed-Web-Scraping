@@ -45,7 +45,6 @@ Each job listing includes:
 ```bash
 git clone https://github.com/aman4242indeed-job-scraper.git
 cd indeed-job-scraper
-Sample Output (CSV Preview)
 ```
 ### 2. Install Dependencies
 ```bash
@@ -63,6 +62,7 @@ Edit the last line of the script to set your job search parameters:
 scrape_indeed_jobs("Data Scientist", "New Delhi, Delhi", num_pages=6)
 Then run the script:
 ```
+Then run the script:
 ``` bash
 python indeed_scraper.py
 ```

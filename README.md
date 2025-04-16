@@ -68,10 +68,13 @@ python indeed_scraper.py
 ```
 The output file indeed_jobs.csv will be generated in the project directory.
 
-## Sample Output (CSV Preview)
-Title             	Company	           Job Location	          Salary             	Link
-Data Scientist    	ABC Solutions	     New Delhi, Delhi    	₹15,00,000     	https://in.indeed.com/viewjob?jk=abc123
-ML Engineer	        XYZ Analytics	         Delhi	            Unpaid	      https://in.indeed.com/viewjob?jk=xyz456
+## 📈 Sample Output (CSV Preview)
+
+| Title           | Company         | Job Location     | Salary      | Link                                         |
+|----------------|-----------------|------------------|-------------|----------------------------------------------|
+| Data Scientist | ABC Solutions   | New Delhi, Delhi | ₹15,00,000  | [View Job](https://in.indeed.com/viewjob?jk=abc123) |
+| ML Engineer    | XYZ Analytics   | Delhi            | Unpaid      | [View Job](https://in.indeed.com/viewjob?jk=xyz456) |
+
 
 ## Future Enhancements
   - Scrape detailed job descriptions from individual job pages.

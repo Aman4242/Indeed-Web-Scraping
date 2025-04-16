@@ -50,8 +50,8 @@ Sample Output (CSV Preview)
 ### 2. Install Dependencies
 ```bash
 pip install -r requirements.txt
-requirements.txt:
 ```
+requirements.txt:
 ```nginx
 selenium
 webdriver-manager
